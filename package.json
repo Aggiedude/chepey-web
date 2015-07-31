@@ -1,0 +1,30 @@
+{
+  "name": "chepey-web",
+  "version": "1.0.0",
+  "description": "Testing out a jekyll based web page",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.10",
+    "gulp-jshint": "^1.11.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sequence": "^0.4.0",
+    "gulp-shell": "^0.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aggiedude/chepey-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aggiedude/chepey-web/issues"
+  },
+  "homepage": "https://github.com/Aggiedude/chepey-web#readme"
+}
