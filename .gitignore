@@ -1,2 +1,7 @@
 _site/
 .sass-cache/
+*.iml
+.idea/
+bower_components/
+node_modules/
+css/site.css

@@ -1,0 +1,15 @@
+name: Andrew Chepey's site
+description: This is a sample trial run for making my own site.
+author: Andrew Chepey
+author_email: achepey@gmail.com
+
+category_dir: /
+
+url: localhost:4000
+
+#### Under the Hood Stuff #####
+markdown: rdiscount
+permalink: pretty
+
+# Exclude metadata and development time dependencies
+exclude: [README.md, package.json, gulpfile.js, chepey-web.iml, node_modules, bower.json]
